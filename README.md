@@ -91,3 +91,12 @@ repozytorium.
   raport.
 - Nie pokazuje danych żadnej rodziny; brak pliku dla dnia oznacza przerwę w
   publikacji (np. awarię), a nie brak wpisów.
+
+## Wyjaśnienie z 19.11.2026: pliki z serwera testowego
+
+Pliki z dni 5–17.11.2026 opublikował przez pomyłkę nasz serwer TESTOWY
+(dane testowe, bez prawdziwych rodzin), a nie produkcja — oba serwery miały
+wpisane to samo repozytorium. Przenieśliśmy je bez zmian do katalogu
+`test-2026-11/`; ich pierwotne daty publikacji widać w historii repozytorium.
+Od 19.11.2026 w katalogu `odciski/` publikuje wyłącznie produkcja
+(api.2apka.pl), a serwer testowy ma publikację wyłączoną.
