@@ -1,0 +1,4 @@
+data: 2026-11-16
+ogniwo: e8f4016864b91400d2f5d78a7b8f9b43112d1d8619588865059c1ee9447fde6f
+poprzednie: poczatek lancucha
+liczba ogniw: 1
