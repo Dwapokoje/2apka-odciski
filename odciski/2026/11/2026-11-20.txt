@@ -1,0 +1,4 @@
+data: 2026-11-20
+ogniwo: dcba00332892d95b5980589a0aabfb919acd3bd5fa59b28f95c2295afbfa4b98
+poprzednie: a8ce4b57e65f1a7f9ed8958d227173e071168455cab78e9cd3cba576ef7f8ea5
+liczba ogniw: 5
